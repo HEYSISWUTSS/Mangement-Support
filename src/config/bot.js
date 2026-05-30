@@ -26,7 +26,7 @@ export const botConfig = {
       {
         // Text users will see (example: "Playing /help | Titan Bot").
         name: "Completing testing with our tickets. Trying to update Discord bot. Please go Sub to my youtube https://www.youtube.com/@ThechickenYoutuber! Thank you for listening to me yap.",
-        // Activity type number (4 = Playing).
+        // Activity type number (4 = Custom).
         type: 4, 
       },
     ],
